@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DropDownSearch15_01_2024
-//
-//  Created by Aniket Patil on 15/01/24.
-//
-
 import UIKit
 
 @main
